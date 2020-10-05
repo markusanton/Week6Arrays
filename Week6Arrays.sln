@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week6Arrays", "Week6Arrays\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WardrobePicker", "WardrobePicker\WardrobePicker.csproj", "{BE5F046E-D025-485E-B739-649DF5C6BC0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAgainstZombies", "UserAgainstZombies\UserAgainstZombies.csproj", "{118862F4-BF85-4B97-BB53-48BF0B319B94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BE5F046E-D025-485E-B739-649DF5C6BC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE5F046E-D025-485E-B739-649DF5C6BC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE5F046E-D025-485E-B739-649DF5C6BC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{118862F4-BF85-4B97-BB53-48BF0B319B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118862F4-BF85-4B97-BB53-48BF0B319B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118862F4-BF85-4B97-BB53-48BF0B319B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118862F4-BF85-4B97-BB53-48BF0B319B94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
