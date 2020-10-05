@@ -15,7 +15,7 @@ namespace UserAgainstZombies
             userBag[i] = Console.ReadLine();
             i++;
             }
-            Random rnd = new Random;
+            Random rnd = new Random();
             Console.WriteLine($"In case of a zombie attack you will have to fight off zombies with {userBag[rnd.Next(0, userBag.Length)]}");
 
         }
